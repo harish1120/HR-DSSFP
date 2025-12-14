@@ -1,7 +1,5 @@
 # DSSFP
-Paper Yet to be published
 
-<!--
 **Model Architecture**
 ---
 ![Model Arch](dssfp.svg)
