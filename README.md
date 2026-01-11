@@ -1,5 +1,8 @@
 # DSSFP
 
+This is the official implementation of the paper:
+  * [Dilated Strip-Wise Spatial Feature Pyramid: An Efficient Network for Object Detection](https://ieeexplore.ieee.org/abstract/document/11124807)
+    
 **Model Architecture**
 ---
 ![Model Arch](dssfp.svg)
